@@ -81,11 +81,29 @@ Incluye las siguientes tablas:
 
 Puedes incluirlas dentro de `/captures`, por ejemplo:
 
-- `login.png`  
-- `bloqueo.png`  
-- `tabla-intentos.png`  
+### Pagina web
+- `login.png`
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 194129" src="https://github.com/user-attachments/assets/300376dc-d705-4c88-9963-f9473ab5ce7e" />
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 194140" src="https://github.com/user-attachments/assets/9056e777-c525-4207-84c6-aed71001dd41" />
 
+- `bloqueo`
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 195054" src="https://github.com/user-attachments/assets/b20fd173-8bf0-4b6f-aabc-56421dd0ef2c" />
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 195120" src="https://github.com/user-attachments/assets/bf988012-e1a5-44a1-b400-c41d93eb5495" />
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 195442" src="https://github.com/user-attachments/assets/f3123076-1678-44c5-9dbe-fb61b5b82fb8" />
 
+- `pagina principal`
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 194248" src="https://github.com/user-attachments/assets/4ca72e21-a073-4f25-8ba6-48aeba4f28e7" />
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 194302" src="https://github.com/user-attachments/assets/4f491f6e-1922-43dc-9547-007810924860" />
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 194315" src="https://github.com/user-attachments/assets/c5c83646-dfa8-4045-977e-b0b6eb22b759" />
+
+  
+### Base de Datos
+- `usuarios`
+  <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 194338" src="https://github.com/user-attachments/assets/81aea3f5-e006-4e12-a290-d037fa57619c" />
+  
+- `intentos_login`
+   <img width="1920" height="1080" alt="Captura de pantalla 2025-11-23 194514" src="https://github.com/user-attachments/assets/efaa382f-038e-4ba0-8814-d6608091dd7d" />
+   
 ---
 
 ## 💻 **Tecnologías utilizadas**
