@@ -1,0 +1,99 @@
+body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #e3e9ff; /* fondo azul del login */
+        margin: 0;
+        padding: 0;
+        color: #2c3e50;
+    }
+    header {
+        background-color: #4a69ff; /* azul intenso */
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    header h1 {
+        margin: 0;
+        font-size: 2rem;
+    }
+    header p {
+        margin: 5px 0 0;
+        font-size: 1rem;
+        color: #ecf0f1;
+    }
+    .container {
+        max-width: 1000px;
+        margin: 30px auto;
+        padding: 0 20px;
+    }
+    section {
+        margin-bottom: 40px;
+    }
+    h2 {
+        color: #6c5ce7; /* morado login */
+        margin-bottom: 15px;
+        border-bottom: 2px solid #4a69ff;
+        display: inline-block;
+        padding-bottom: 5px;
+    }
+    ul {
+        list-style-type: disc;
+        padding-left: 20px;
+    }
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .card {
+        background-color: #fff;
+        flex: 1 1 250px;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        text-align: center;
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    }
+    .card img {
+        width: 60px;
+        margin-bottom: 10px;
+    }
+    .case-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 15px;
+    }
+    .case-table th, .case-table td {
+        border: 1px solid #bdc3c7;
+        padding: 12px;
+        text-align: left;
+    }
+    .case-table th {
+        background-color: #4a69ff; /* azul intenso */
+        color: #fff;
+    }
+    .case-table td.problem {
+        background-color: #ff6b6b; /* rojo suave */
+        color: #fff;
+    }
+    .case-table td.techniques {
+        background-color: #feca57; /* amarillo suave */
+        color: #2c3e50;
+    }
+    .case-table td.solution {
+        background-color: #1dd1a1; /* verde suave */
+        color: #fff;
+    }
+    .diagram {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .diagram img {
+        max-width: 100%;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
