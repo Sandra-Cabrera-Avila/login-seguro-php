@@ -90,7 +90,7 @@ Puedes incluirlas dentro de `/captures`, por ejemplo:
 
 ## 💻 **Tecnologías utilizadas**
 
-- PHP 7/8  
+- PHP 8.0.30  
 - MySQL / phpMyAdmin  
 - HTML5  
 - CSS3  
@@ -101,7 +101,7 @@ Puedes incluirlas dentro de `/captures`, por ejemplo:
 
 ## 👤 **Autor**
 
-**Sandra Cabrera Ávila**  
+**Sandra Cabrera Avila**  
 Proyecto académico – Seguridad de Aplicaciones Web
 
 ---
