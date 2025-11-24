@@ -19,22 +19,31 @@ Fue desarrollado con PHP, MySQL, JavaScript, HTML y CSS usando XAMPP.
 
 ## 📂 **Estructura del proyecto**
 
-
-
 ### 📁 `src/` contiene:
-- bd.php  
-- index.php  
-- login.php  
-- validar.php  
-- registrar.php  
-- logout.php  
-- home.php  
+- bd.php
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/bd.php
+- index.php
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/index.php  
+- login.php
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/login.php  
+- validar.php
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/validar.php  
+- registrar.php
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/registrar.php  
+- logout.php
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/logout.php  
+- home.php
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/home.php  
 
 ### 📁 `static/` contiene:
-- style.css  
-- home.css  
-- script.js  
+- style.css
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/static/home.css  
+- home.css
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/static/home.css  
+- script.js
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/static/script.js  
 - img/ (carpeta con imágenes)
+  https://github.com/Sandra-Cabrera-Avila/login-seguro-php/tree/main/login-seguro-php/static/img
 
 ---
 
