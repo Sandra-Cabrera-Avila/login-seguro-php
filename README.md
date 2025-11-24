@@ -42,7 +42,7 @@ Fue desarrollado con PHP, MySQL, JavaScript, HTML y CSS usando XAMPP.
   https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/static/home.css  
 - script.js
   https://github.com/Sandra-Cabrera-Avila/login-seguro-php/blob/main/login-seguro-php/static/script.js  
-- img/ (carpeta con imágenes)
+- img/
   https://github.com/Sandra-Cabrera-Avila/login-seguro-php/tree/main/login-seguro-php/static/img
 
 ---
